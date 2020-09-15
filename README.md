@@ -8,6 +8,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwuLHJlVv6q5tKJxJltjBspC
 ## 课程详细
 
 01. Xcode+SwiftUI入门使用
+02. 图片的缩放
 
 ## 课程文件
 
