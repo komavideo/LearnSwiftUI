@@ -10,6 +10,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwuLHJlVv6q5tKJxJltjBspC
 01. Xcode+SwiftUI入门使用
 02. 图片的缩放
 03. 属性包装器 - Property Wrappers
+04. 数据绑定，改变标题 - @State
 
 ## 课程文件
 
