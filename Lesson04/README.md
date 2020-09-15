@@ -9,7 +9,6 @@
 
 ~~~swift
 import SwiftUI
-
 struct ContentView: View {
     @State private var title: String = "Helo Title."
     @State private var textInput: String = ""
