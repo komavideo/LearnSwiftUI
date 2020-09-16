@@ -5,6 +5,10 @@ SwiftUI iOS 开发入门教学
 
 https://www.youtube.com/playlist?list=PLliocbKHJNwuLHJlVv6q5tKJxJltjBspC
 
+## 苹果技术
+
+https://developer.apple.com/documentation/technologies
+
 ## 课程详细
 
 01. Xcode+SwiftUI入门使用
