@@ -17,6 +17,7 @@ https://developer.apple.com/documentation/technologies
 04. 数据绑定，改变标题 - @State
 05. 数据绑定，传递结构 - @Binding
 06. 取得系统数据 - @Environment
+07. 观察者数据绑定 - ObservableObject, Published, ObservedObject
 
 ## 课程文件
 
