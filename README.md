@@ -19,6 +19,7 @@ https://developer.apple.com/documentation/technologies
 06. 取得系统数据 - @Environment
 07. 观察者数据绑定 - ObservableObject, Published, ObservedObject
 08. 访问环境对象 - @EnvironmentObject
+09. MVVM模式 - Model-View-ViewModel
 
 ## 课程文件
 
