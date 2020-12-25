@@ -24,6 +24,7 @@ https://developer.apple.com/documentation/technologies
 11. 按钮事件+数据绑定
 12. json数据的读取 - JSONDecoder
 13. 限制用户输入 - Published, didSet
+14. 导航View的基础 - NavigationView
 
 ## 课程文件
 
