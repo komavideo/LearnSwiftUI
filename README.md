@@ -27,6 +27,7 @@ https://developer.apple.com/documentation/technologies
 14. 导航View的基础 - NavigationView
 15. 导航链接 - NavigationLink View
 16. 编程导航方式 - isActive
+17. 滑动调整图片大小 - Slider
 
 ## 课程文件
 
