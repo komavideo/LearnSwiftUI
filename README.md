@@ -28,6 +28,7 @@ https://developer.apple.com/documentation/technologies
 15. 导航链接 - NavigationLink View
 16. 编程导航方式 - isActive
 17. 滑动调整图片大小 - Slider
+18. Tab标签组件 - TabView
 
 ## 课程文件
 
