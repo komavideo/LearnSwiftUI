@@ -25,6 +25,7 @@ https://developer.apple.com/documentation/technologies
 12. json数据的读取 - JSONDecoder
 13. 限制用户输入 - Published, didSet
 14. 导航View的基础 - NavigationView
+15. 导航链接 - NavigationLink View
 
 ## 课程文件
 
