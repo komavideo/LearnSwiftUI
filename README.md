@@ -30,6 +30,7 @@ https://developer.apple.com/documentation/technologies
 17. 滑动调整图片大小 - Slider
 18. Tab标签组件 - TabView
 19. 定制TabView内容
+20. 弹出Sheet视图
 
 ## 课程文件
 
