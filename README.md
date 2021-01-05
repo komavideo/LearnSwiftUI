@@ -35,6 +35,7 @@ https://developer.apple.com/documentation/technologies
 22. 弹出框 - popover
 23. 警告框 - Alert
 24. 上拉消息提示框 - ActionSheet
+25. 拆分视图 - Split Views(NavigationView for iPad)
 
 ## 课程文件
 
