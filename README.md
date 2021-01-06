@@ -36,6 +36,7 @@ https://developer.apple.com/documentation/technologies
 23. 警告框 - Alert
 24. 上拉消息提示框 - ActionSheet
 25. 拆分视图 - Split Views(NavigationView for iPad)
+26. 获取手机方向 - UIDeviceOrientation
 
 ## 课程文件
 
