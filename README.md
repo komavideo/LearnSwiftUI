@@ -37,6 +37,7 @@ https://developer.apple.com/documentation/technologies
 24. 上拉消息提示框 - ActionSheet
 25. 拆分视图 - Split Views(NavigationView for iPad)
 26. 获取手机方向 - UIDeviceOrientation
+27. 父容器几何读取器 - GeometryReader
 
 ## 课程文件
 
